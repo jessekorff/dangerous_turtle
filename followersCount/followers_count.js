@@ -17,3 +17,9 @@ function displayCount(){
     document.getElementById('countDisplay').innerHTML=count; //Display the count in HTML
 
 }
+
+function resetCount(){
+    count = 0;
+    displayCount();
+    alert("Your followers have been reset to 0");
+}
