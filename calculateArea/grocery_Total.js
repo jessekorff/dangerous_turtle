@@ -12,3 +12,9 @@ function groceryTotal() {
     document.getElementById('result').innerText = `The total for groceries is: ${result}`;
 
 }
+
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+      groceryTotal();
+    }
+  });
