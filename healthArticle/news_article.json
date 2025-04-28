@@ -1,0 +1,46 @@
+{
+    "articles": [
+      {
+        "title": "Ukraine",
+        "description": "This article discusses Russia's war on Ukraine.",
+        "background": [
+          "Point one.",
+          "Point two.",
+          "Point three."
+        ],
+        "current_updates": [
+            "Point one.",
+            "Point two.",
+            "Point three."
+        ]
+      },
+      {
+        "title": "Gaza",
+        "description": "This article discusses Israel's war against Gaza.",
+        "background": [
+          "Point one.",
+          "Point two.",
+          "Point three."
+        ],
+        "current_updates": [
+          "Point one.",
+          "Point two.",
+          "Point three."
+        ]
+      },
+      {
+        "title": "Trump's Authoritarian Takeover.",
+        "description": "This article discusses Trump's destruction of the American legal system.",
+        "background": [
+            "Point one.",
+            "Point two.",
+            "Point three."
+        ],
+        "current_updates": [
+            "Point one.",
+            "Point two.",
+            "Point three."
+        ]
+      }
+    ]
+}
